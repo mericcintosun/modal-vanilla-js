@@ -17,8 +17,8 @@ See `freecodecamp.com` for ways to get started.
 ## Demo
 
 Insert gif or link to demo
+https://modal-vanilla-js-coding-by-mericcintosun.vercel.app/
 
-https://color-flipper-by-meric-cintosun.vercel.app/
 ## Screenshots
 
 ![App Screenshot](https://r.resimlink.com/A0Eqr.png)
